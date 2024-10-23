@@ -13,4 +13,4 @@ Reach me <a href='https://vitordeveloper.com/' target='_blank'>Here!</a>
 
 Let's work together to build amazing solutions! ✨<br>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,nodejs,react,angular,flutter&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aws,ts,nodejs,react,angular,flutter&theme=light)](https://skillicons.dev)
